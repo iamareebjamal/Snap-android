@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="AppTheme" parent="Base.Theme">
+        
+	</style>
+    
+    <style name="Base.Theme" parent="Theme.AppCompat.Light">
+		<item name="colorPrimary">#31E1AF</item>
+        <item name="colorPrimaryDark">#00BF8D</item>
+        <item name="colorAccent">#31E1AF</item>
+		<item name="colorControlHighlight">#71FBD4</item>
+	</style>
+</resources>
